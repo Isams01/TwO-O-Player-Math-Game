@@ -8,4 +8,5 @@ class Player
     @lives = 3
   end
   attr_accessor :lives
+  attr_accessor :player
 end
